@@ -1,0 +1,35 @@
+﻿<<Đây là dòng làm dấu Unicode, không được sửa hoặc xoá dòng này>>
+d1||1 viên khi đau cách nhau tối thiểu 6 giờ
+m0||trong mổ
+m1||60 giọt/phút
+m2||pha Glucose 5%, mỗi chai 2 ống
+m3||1 lọ/lần 9h - 15h
+m4||2 viên/lần 9h - 15h
+m5||1 viên/lần 9h - 15h
+rv||Dùng thuốc theo đơn.￾Khám lại theo hẹn.￾Bất thường khám lại ngay.
+t1||ngày 2 lần, mỗi lần 1 viên chia Sáng - Tối sau ăn
+t2||ngày 2 lần, mỗi lần 2 viên chia Sáng - Tối
+t3||ngày 2 lần, mỗi lần 1 gói chia Sáng - Chiều trước ăn 30 phút
+t4||ngày 1 viên sau ăn Sáng
+t5||trực tiếp lên vết mổ ngày 3-4 lần
+t6||vết mổ/ vết khâu tầng sinh môn
+t7||áp má ngày 2 viên
+t8||pha tắm cho bé theo hướng dẫn
+drv||Trong quá trình dùng thuốc có bất thường đề nghị dừng thuốc và tái khám ngay.
+m11||60 giọt/phút sau truyền Glucose 5%
+m22||2 ống, 3 ống pha Glucose 5%
+m32||40 giọt/phút 1 chai/lần 9h - 15h
+m33||pha kháng sinh tiêm, mỗi lọ 2 ống
+sa1||Siêu âm: 1 thai ngôi thuận, P 3200g, rau ối bình thường￾CLS: Trong giới hạn bình thường
+sa2||Siêu âm: 1 thai ngôi thuận, P 3200g, DRQC 1 vòng￾CLS: Trong giới hạn bình thường
+sa3||Siêu âm: 1 thai ngôi thuận, P 3332g, DRQC 1 vòng, AFI mm, SDP mm, Độ dày vết mổ cơ TC ~ mm.￾CLS: Trong giới hạn bình thường
+smlt||Sau mổ lấy thai
+baonh||TS. BSCKII. Nguyễn Huy Bạo
+luunv||Ths. Bs. Nguyễn Văn Lựu
+lyttt||BSCKII. Tô Thị Thiên Lý
+thopt||BSCKI. Phạm Tiến Thọ
+anhnt3||BSCKII. Nguyễn Tuấn Anh
+binhvv||BSCKI. Vũ Văn Bình
+dunght||BSCKI. Hoàng Tiến Dũng
+lanlth||BSCKI. Lê Thanh Hương Lan
+huongttd||BSCKI. Tôn Thị Diệu Hương

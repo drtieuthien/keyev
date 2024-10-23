@@ -1,0 +1,9 @@
+$ git config --global user.name "drtieuthien"
+$ git config --global user.email tanhk34f@gmail.com
+$ git config --list
+$ git init  (Lệnh khởi tạo git trong project)
+$ git remote add origin https://github.com/drtieuthien/keyev.git (remote đến project trên github)
+$ git remote -v
+$ git add . (thêm toàn bộ code vào staging)
+$ git commit -m "test"  (commit nội dung code, nên để ngắn gọn nha)
+$ git push origin master
